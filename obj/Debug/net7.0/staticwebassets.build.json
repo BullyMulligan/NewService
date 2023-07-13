@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "87cPno+4Awdv0Ruoptyfu7NDS7ZMjp2zuSPSNHmJER8=",
+  "Source": "NewService",
+  "BasePath": "_content/NewService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
